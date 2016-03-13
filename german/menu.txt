@@ -1,0 +1,25 @@
+1|
+2|Über pilight|about-pilight
+3|Installation|installation
+4|Konfiguration
+	4.1|Geräte (Devices)|configuration-devices
+	4.2|Regeln (Rules)|configuration-rules
+	4.3|GUI|configuration-gui
+	4.4|Einstellungen (Settings)|configuration-settings
+	4.5|Hardware|configuration-hardware
+	4.6|Registry|configuration-registry
+	4.7|Beispiel|configuration
+5|Eventing|eventing
+6|AdHoc-Netzwerk|adhoc-network
+7|Elektronik
+	7.1|Verkabelung|electronics-wiring
+	7.2|PCB Löten|electronics-pcbsoldering
+8|Häufig gestellte Fragen|faq
+9|
+10|Entwickler
+	10.1|API|api
+	10.2|Debugging|debugging
+11|
+12|Sitemap|sitemap
+13|
+14|Über das Handbuch|about-manual
